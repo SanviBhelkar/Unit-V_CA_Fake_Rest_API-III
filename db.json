@@ -1,0 +1,12 @@
+{
+  "gadgets": [
+    { "id": 1, "name": "Smartphone", "brand": "Samsung", "price": 999 },
+    { "id": 2, "name": "Laptop", "brand": "Apple", "price": 1499 },
+    { "id": 3, "name": "Smartwatch", "brand": "Fitbit", "price": 199 }
+  ],
+  "books": [
+    { "id": 1, "title": "JavaScript: The Good Parts", "author": "Douglas Crockford", "price": 25 },
+    { "id": 2, "title": "Clean Code", "author": "Robert C. Martin", "price": 30 },
+    { "id": 3, "title": "Design Patterns", "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides", "price": 35 }
+  ]
+}
