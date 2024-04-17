@@ -1,12 +1,20 @@
 {
-  "gadgets": [
-    { "id": 1, "name": "Smartphone", "brand": "Samsung", "price": 999 },
-    { "id": 2, "name": "Laptop", "brand": "Apple", "price": 1499 },
-    { "id": 3, "name": "Smartwatch", "brand": "Fitbit", "price": 199 }
-  ],
-  "books": [
-    { "id": 1, "title": "JavaScript: The Good Parts", "author": "Douglas Crockford", "price": 25 },
-    { "id": 2, "title": "Clean Code", "author": "Robert C. Martin", "price": 30 },
-    { "id": 3, "title": "Design Patterns", "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides", "price": 35 }
-  ]
+"gadgets": [
+    { "id": 1, "name": "Smartphone", "brand": "Oneplus", "price": 199 },
+    { "id": 2, "name": "Macbook", "brand": "Apple", "price": 889 },
+    { "id": 3, "name": "HeadSet", "brand": "Iball", "price": 139 },
+    { "id": 4, "name": "Tablet", "brand": "Microsoft", "price": 799 },
+    { "id": 5, "name": "Headphones", "brand": "Sony", "price": 299 },
+    { "id": 6, "name": "Fitness Tracker", "brand": "Garmin", "price": 149 },
+    { "id": 7, "name": "E-reader", "brand": "Amazon", "price": 129 },
+    { "id": 8, "name": "Desktop PC", "brand": "Dell", "price": 999 },
+    { "id": 9, "name": "Camera", "brand": "Canon", "price": 599 },
+    { "id": 10, "name": "Gaming Console", "brand": "Sony", "price": 399 },
+    { "id": 11, "name": "Wireless Speaker", "brand": "JBL", "price": 199 },
+    { "id": 12, "name": "Drone", "brand": "DJI", "price": 999 },
+    { "id": 13, "name": "VR Headset", "brand": "Oculus", "price": 399 },
+    { "id": 14, "name": "Printer", "brand": "HP", "price": 199 },
+    { "id": 15, "name": "External Hard Drive", "brand": "Seagate", "price": 129 },
+    { "id": 16, "name": "Smart Home Hub", "brand": "Google", "price": 149 }
+]
 }
