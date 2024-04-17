@@ -6,7 +6,7 @@ const MobileList = () => { // Defining a functional component called MobileList
   const [mobiles, setMobiles] = useState([]); // Initializing state variable 'mobiles' as an empty array using useState hook
 
   useEffect(() => { // Using useEffect hook to perform side effects (like data fetching) in functional components
-    axios.get('https://sanvibhelkar/gadgets')
+    axios.get('https://my-json-server.typicode.com/SanviBhelkar/Unit-V_CA_Fake_Rest_API-III')
       .then(response => { // Handling successful response
         setMobiles(response.data); // Updating the 'mobiles' state with the fetched data
       })
